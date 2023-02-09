@@ -1,0 +1,43 @@
+.main-container {
+  background-color: #ffd569;
+  padding: 50px;
+  height: 100vh;
+}
+
+.second-container {
+  background-color: #ffffff;
+  padding: 10px;
+}
+.heading {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+.count {
+  color: #ffd569;
+}
+.image {
+  height: 400px;
+  width: 400px;
+}
+.fruit-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.img-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.mango {
+  height: 30px;
+  width: 100px;
+  background-color: blue;
+  color: #ffffff;
+  border-radius: 5px;
+  border-width: 0px;
+}
